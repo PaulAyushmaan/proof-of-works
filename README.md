@@ -1,42 +1,69 @@
-# 📂 Proof of Works
+# 🚀 Proof of Works
 
-Welcome to our project showcase! Below are live demos of our key works across web apps, software solutions, and platforms. Feel free to explore each project.
-
----
-
-## 🚖 [Destini – Student & College Cab Platform](https://destini-a-comprehensive-transportation.onrender.com/)
-A full-featured mobility platform enabling college-specific ride-sharing, subsidized rides, cycle/e-bike rentals, and real-time fare split logic.
+Welcome to our project showcase! Explore our live, production-ready apps built using modern tech stacks (MERN, FastAPI, React, Node.js, MongoDB, and more).
 
 ---
 
-## 🎨 [3D Developer Portfolio](https://ayushmaanpaul.vercel.app/)
-An interactive personal portfolio built with React and 3D animations to showcase projects, skills, and professional experience.
+## 🚖 [Destini – Cab Platform for Students & Colleges](https://destini-a-comprehensive-transportation.onrender.com/)
+> A complete ride-hailing solution with subsidized rides, group fare splits, cycle/e-bike rentals, and real-time ride logic.
 
----
-
-## 🏆 [Sportivo 4.0 – College Sports Event Platform](https://sportivo-4.netlify.app/)
-Official registration website for Techno Engineering College Banipur’s sports events, featuring dynamic countdowns and seamless Google Forms integration.
+👉 **Tech:** MERN stack, JWT, role-specific portals  
+👉 **Live Demo:** [View Destini](https://destini-a-comprehensive-transportation.onrender.com/)  
+👉 **Source:** [GitHub Repo](https://github.com/PaulAyushmaan/destini)
 
 ---
 
 ## 🪪 [KYC Fabric – Identity Verification Platform](https://kyc-fabric.crawfieldanddutton.com/)
-A robust KYC platform supporting verification of PAN, Aadhaar, Voter ID, and more, with scalable backend and automated data extraction.
+> Supports verification of PAN, Aadhaar, Voter ID, etc., with 20+ client organizations and 10K+ requests/month.
+
+👉 **Tech:** FastAPI, MongoDB, JWT, web scraping  
+👉 **Live Demo:** [View KYC Fabric](https://kyc-fabric.crawfieldanddutton.com/)
+
+---
+
+## 🎨 [3D Developer Portfolio](https://ayushmaanpaul.vercel.app/)
+> Interactive portfolio with 3D visuals, smooth animations, and responsive design.
+
+👉 **Tech:** React, Tailwind CSS, Three.js  
+👉 **Live Demo:** [View Portfolio](https://ayushmaanpaul.vercel.app/)  
+👉 **Source:** [GitHub Repo](https://github.com/PaulAyushmaan/my-3d-portfolio)
 
 ---
 
 ## 🏞️ [Backroads Tours – Travel Website](https://backroads-tour-ap.netlify.app/)
-A travel-themed website offering immersive visuals and interactive sections to showcase destinations and tour packages.
+> A travel-themed website with immersive visuals and interactive sections to showcase destinations and tour packages.
+
+👉 **Tech:** HTML, CSS, JavaScript  
+👉 **Live Demo:** [View Backroads Tour](https://backroads-tour-ap.netlify.app/)  
+👉 **Source:** [GitHub Repo](https://github.com/PaulAyushmaan/Backroads-tour)
 
 ---
 
 ## 🍵 [Tea Station – E-Commerce Demo](https://tea-station-ap.netlify.app/)
-A modern e-commerce frontend for a fictional tea shop, demonstrating clean design, responsive layouts, and engaging UI components.
+> A modern e-commerce frontend for a fictional tea shop, demonstrating clean design and engaging UI components.
+
+👉 **Tech:** HTML, CSS, JavaScript  
+👉 **Live Demo:** [View Tea Station](https://tea-station-ap.netlify.app/)  
+👉 **Source:** [GitHub Repo](https://github.com/PaulAyushmaan/tea-station)
+
+---
+
+## 🏆 [Sportivo 4.0 – College Sports Event Platform](https://sportivo-4.netlify.app/)
+> Official sports registration site used by 500+ students.
+
+👉 **Tech:** HTML, CSS, JavaScript  
+👉 **Live Demo:** [View Sportivo](https://sportivo-4.netlify.app/)  
+👉 **Source:** [GitHub Repo](https://github.com/PaulAyushmaan/Sportivo-4.0)
 
 ---
 
 ## 💸 [Expense Management System](https://expense-management-system-go4a.vercel.app/login)
-A full-stack MERN app for real-time household expense tracking with analytics dashboards, category breakdowns, and secure JWT-based authentication.
+> Real-time shared expense tracking app with analytics dashboards and secure login.
+
+👉 **Tech:** MERN, Ant Design, JWT  
+👉 **Live Demo:** [View Expense App](https://expense-management-system-go4a.vercel.app/login)  
+👉 **Source:** [GitHub Repo](https://github.com/PaulAyushmaan/ExpenseManagementSystem)
 
 ---
 
-🚀 **Thank you for exploring our projects!**
+🌟 **Thank you for visiting!**
