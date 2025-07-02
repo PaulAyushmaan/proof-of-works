@@ -66,4 +66,18 @@ Welcome to our project showcase! Explore our live, production-ready apps built u
 
 ---
 
+## 📞 Contact Us
+
+Feel free to reach out for project inquiries, collaborations, or any questions!
+
+- 📧 **Email:** [ayushmaanpaul2004@gmail.com](mailto:ayushmaanpaul2004@gmail.com)  
+- 📞 **Phone:** +91 9830921569  
+- 🌐 **Portfolio:** [ayushmaanpaul.vercel.app](https://ayushmaanpaul.vercel.app/)  
+- 🔗 **LinkedIn:** [paulayushmaan](https://www.linkedin.com/in/paulayushmaan)  
+- 🐙 **GitHub:** [PaulAyushmaan](https://github.com/PaulAyushmaan)
+
+---
+
 🌟 **Thank you for visiting!**
+
+✨ *Looking forward to working with you!*
